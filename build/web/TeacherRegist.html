@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <meta charset="UTF-8" />
+    <script>
+        //验证密码强度
+        function checkStrength()
+        {
+            var strength = document.getElementById("strength");
+        }
+        
+        //验证密码是否一致
+        function checkPSW()
+        {
+            
+        }
+        
+    </script>
+    <form>
+        <fieldset>
+            <legend>教师注册页面</legend>
+            <center>
+                <div style="padding: 5px;width: 600px">
+                    <h4>教师登录信息</h4>
+                    <table width='100%'>
+                        <tr>
+                            <td width='20%'>用户名</td>
+                            <td width='40%'><input id="username" type="text" required/></td>
+                            <td width='40%'><font color='red'>*</font></td>
+                        </tr>
+                        <tr>
+                            <td>邮箱</td>
+                            <td><input id="email" type="email" required/></td>
+                            <td><font color='red'>*</font></td>
+                        </tr>
+                        <tr>
+                            <td>密码</td>
+                            <td><input id="psw1" type="password" required/></td>
+                            <td><font color='red'>*</font> <span id="strength" onkeyup="checkStrength()"></span></td>
+                        </tr>
+                        <tr>
+                            <td>确认密码</td>
+                            <td><input id="psw2" type="password" required onblur="checkPSW()"/></td>
+                            <td><font color='red'>*</font></td>
+                        </tr>
+                    </table>
+                </div>
+            </center>
+        </fieldset>
+    </form>
+</html>

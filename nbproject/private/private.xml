@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/GetClassifyItemsServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/SendTokeServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/RegistServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/dao/DBOperate.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/GetImgServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/GetBookListServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/TeacherRegist.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/web/TeacherLogin.html</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/service/UserLogin.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/dao/bean/TokeBean.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/web/TeacherRegist.html</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/SendTokeReplyServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/utils/utils.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/UploadServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/service/BookDBManager.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/web/UploadBook.jsp</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/web/login.html</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/dao/bean/BookDB.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/web/Regist.html</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/test/Test.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/dao/bean/Books.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/UploadBook.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/service/PathFactory.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/BookCmdServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/dao/bean/TeacherBean.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/web/Upload.html</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/utils/Configs.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/dao/bean/ClassifyPath.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/web/index.html</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/GetFileServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/net/sf/json/JSONObject.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/service/DBRamTrans.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/GetTokeReplyListServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/UnloginServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/GetTokeListServlet.java</file>
+            <file>file:/C:/Users/gy/Documents/NetBeansProjects/MicroClass/src/java/com/just/weike/servlet/TeacherLogin.java</file>
+        </group>
+    </open-files>
+</project-private>
